@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @igor-markin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-igor-markin/igor-markin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, my name is Igor Markin. I'm a Python Developer.
+- 👀 I'm interested in web development and the creation of telegram bots.
+- 🌱 I'm currently learning asynchronous programming and web application architecture.
+- 💞️ I’m looking to collaborate with companies and people who make the world a better place every day.
+- 📫 You can contact me by telegram @juninja or by e-mail 9588604@gmail.com.
