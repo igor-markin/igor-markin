@@ -4,6 +4,8 @@
 
 Karmiel, Israel · remote or hybrid (Haifa area, Tel Aviv) · [LinkedIn](https://www.linkedin.com/in/markin-pro/)
 
+Open to Tech Lead, Team Lead, hands-on Engineering Manager and Senior AI Engineer roles in English-speaking teams, as employee or contractor.
+
 ## What I've shipped
 
 - **Adzz, Team Lead.** Designed the LLM content pipeline from scratch: the cost of one article went from $40 to $0.50, across 58 projects. Business rules stayed in code, not in prompts. Led four engineers, brought in code review and CI/CD, kept writing code.
