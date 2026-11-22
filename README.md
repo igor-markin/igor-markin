@@ -1,6 +1,6 @@
 # Igor Markin
 
-**Hands-on AI tech lead.** I build LLM products and lead the small teams that ship them. 11 years in web development; led an engineering team at Adzz from 2023 to 2026.
+**Hands-on AI tech lead.** I build LLM products and lead the small teams that ship them. 11 years of experience; led an engineering team at Adzz from 2023 to 2026.
 
 Karmiel, Israel · remote or hybrid (Haifa area, Tel Aviv) · [LinkedIn](https://www.linkedin.com/in/markin-pro/)
 
@@ -13,13 +13,13 @@ Open to Tech Lead, Team Lead, hands-on Engineering Manager and Senior AI Enginee
 - **Browser automation at scale.** Playwright jobs that work with thousands of external sites a day, including sites without an API.
 - **Claustrophobia.** Key admin pages went from 2 minutes to 2 seconds after SQL work and caching.
 
-## Open source
+## Own projects
 
 | Project | What it is |
 | --- | --- |
-| [Hebrew Live](https://github.com/igor-markin/hebrew-live) | Live Hebrew captions with translation, fully on-device on Apple Silicon (Whisper + a 4B translation model on MLX). I measured latency on real recordings and the first draft now shows up 24% sooner. |
+| Personal AI assistant (private) | An agent system I use every day: Claude Code agents with my own MCP server (Python, PostgreSQL), hybrid keyword and embedding search (Qwen3 on MLX), scheduled runs and human approval for risky actions. |
+| [Hebrew Live](https://github.com/igor-markin/hebrew-live) | Live Hebrew captions with translation, fully on-device on Apple Silicon (Whisper + a 4B translation model on MLX). |
 | [Live Markdown Preview](https://github.com/igor-markin/live-markdown-preview) | A local-first Markdown editor with no backend: drafts in IndexedDB, rendering in a Web Worker, sanitized HTML, conflict detection across tabs. |
-| [Torhair](https://igor-markin.github.io/torhair/) | A booking system for an independent hairstylist, in production. Online booking, a mobile admin, reminders, verified backups. Code is private. |
 
 Most of my production work lives in private company repositories.
 
@@ -31,4 +31,4 @@ Most of my production work lives in private company repositories.
 
 ## Stack
 
-Python · FastAPI · Django · Node.js · TypeScript · PostgreSQL · Redis · Celery · React · Electron · Docker · Playwright · CI/CD · LLM APIs, agents, model evaluation · MLX
+Python · FastAPI · Django · Node.js · TypeScript · PostgreSQL · MongoDB · Redis · Celery · React · Electron · Linux · Docker · Playwright · CI/CD · LLM APIs, agents, model evaluation · Claude Code · Codex · MCP · MLX
